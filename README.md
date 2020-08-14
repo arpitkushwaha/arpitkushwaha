@@ -26,6 +26,23 @@ Here are some ideas to get you started:
 - Worked on multiple industry-related projects, developed Mobile-Apps and Web-Apps professionally. 
 - Won 5+ Hackathons. 
 
+<a href="https://github.com/arpitkushwaha/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.arpitkushwaha.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=radical" alt="Arpit's github stats" />
+</a>
+<a href="https://github.com/arpitkushwaha/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.arpitkushwaha.vercel.app/api/top-langs/?username=arpitkushwaha&layout=compact&theme=radical" />
+</a>
+
+<a href="https://github.com/arpitkushwaha/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.arpitkushwaha.vercel.app/api/pin/?username=arpitkushwaha&repo=github-readme-stats&theme=radical" />
+</a>    
+<a href="https://github.com/arpitkushwaha/arpitkushwaha.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=arpitkushwaha&repo=anuraghazra.github.io&theme=radical" />
+</a>
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
