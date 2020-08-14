@@ -1,6 +1,6 @@
 <h2 align="center"> Hi, I'm Arpit  💀💀 </h2>
 
-<p align="center"><img src="assets/virus.gif" width="20%"/></p>
+<p align="center"><img src="assets/virus.gif" height="50%" width="50%"/></p>
 
 [![Linkedin: arpitkushwaha](https://img.shields.io/badge/-arpitkushwaha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpit-kushwaha-930443172/)](https://www.linkedin.com/in/arpit-kushwaha-930443172/)
 
