@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I am a 21-year-old Student + Software Developer who has a strong drive to develop beautiful and robust applications. I discovered my passion at the age of 12 while coding in C just for fun. I have worked on multiple industry-related projects, developed Mobile-Apps and Web-Apps professionally, and won 5+ Hackathons till now. My tech-stack includes JAVA + Kotlin (Android App Development), Flutter(Cross-Platform App Development), Node.js (Web-App Development), Vanilla PHP (Web-App Development), NoSQL, SQL, etc. 
+##### I am a 21-year-old Student + Software Developer who has a strong drive to develop beautiful and robust applications. I discovered my passion at the age of 12 while coding in C just for fun. I have worked on multiple industry-related projects, developed Mobile-Apps and Web-Apps professionally, and won 5+ Hackathons till now. My tech-stack includes JAVA + Kotlin (Android App Development), Flutter(Cross-Platform App Development), Node.js (Web-App Development), Vanilla PHP (Web-App Development), NoSQL, SQL, etc. 
