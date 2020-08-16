@@ -1,5 +1,10 @@
 <h1 align="center">💀 Hi, I'm <a href="http://arpit-portfolio.herokuapp.com/">Arpit</a> 💀</h1>
 
+<p align="center">
+  <a href="https://github.com/arpitkushwaha"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
+  <a href="https://www.linkedin.com/in/arpit-kushwaha-930443172"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
+</p>
+
 - 21-year-old Student + Software Developer.
 - Strong drive to develop Beautiful and Robust applications. 
 - Discovered my passion at the age of 12 while coding in C just for fun. 
