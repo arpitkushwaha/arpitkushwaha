@@ -1,4 +1,4 @@
-<h2 align="center">💀 Hi, I'm <a href="http://arpit-portfolio.herokuapp.com/">Arpit</a> 💀</h2>
+<h1 align="center">💀 Hi, I'm <a href="http://arpit-portfolio.herokuapp.com/">Arpit</a> 💀</h1>
 
 - 21-year-old Student + Software Developer.
 - Strong drive to develop Beautiful and Robust applications. 
