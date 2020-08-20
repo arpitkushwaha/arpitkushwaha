@@ -5,6 +5,8 @@
   <a href="https://www.linkedin.com/in/arpit-kushwaha-930443172"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/arpitkushwaha/arpitkushwaha/master/assets/linkedin.svg"></a>
 </p>
 
+<br/>
+
 - 21-year-old Student + Software Developer.
 - Strong drive to develop Beautiful and Robust applications. 
 - Discovered my passion at the age of 12 while coding in C just for fun. 
