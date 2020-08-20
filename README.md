@@ -7,6 +7,8 @@
 
 <br/>
 
+### 😎 About Me
+
 - 21-year-old Student + Software Developer.
 - Strong drive to develop Beautiful and Robust applications. 
 - Discovered my passion at the age of 12 while coding in C just for fun. 
