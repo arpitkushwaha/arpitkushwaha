@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<img src="assets/well_here_we_are.gif" height=10% />
+<img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" height=10% />
 </p>
 
 ### 😎 About Me
