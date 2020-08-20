@@ -5,6 +5,10 @@
   <a href="https://www.linkedin.com/in/arpit-kushwaha-930443172"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/arpitkushwaha/arpitkushwaha/master/assets/linkedin.svg"></a>
 </p>
 
+<p align="center">
+<img src="assets/well_here_we_are.gif" height=10% />
+</p>
+
 ### 😎 About Me
 
 - 21-year-old Student + Software Developer.
