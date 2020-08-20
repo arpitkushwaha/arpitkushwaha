@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/arpit-kushwaha-930443172"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/arpitkushwaha/arpitkushwaha/master/assets/linkedin.svg"></a>
 </p>
 
-<img align="right" src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" height=40% width="40%"/>
+<img align="right" src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" height=30% width="30%"/>
 
 ### 😎 About Me
 
