@@ -8,7 +8,7 @@
 ### ✨😎 About Me
 
 <br/>
-🚀 Transforming 'Legacy' into 'Legendary' | 🔥 Passionate about building intelligent apps (especially LLM-powered ones!) | 💡 Master of mobile and full-stack sorcery (Kotlin, .Net MAUI, C#, Flutter, Java, Android, and more!)
+🚀 4+ years of experience in transforming 'Legacy' into 'Legendary' | 🔥 Passionate about building intelligent apps (especially LLM-powered ones!) | 💡 Master of mobile and full-stack sorcery (Kotlin, .Net MAUI, C#, Flutter, Java, Android, and more!)
 <br/>
 <br/>
 <br/>
