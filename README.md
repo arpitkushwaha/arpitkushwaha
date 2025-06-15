@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/arpit-kushwaha-930443172"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/arpitkushwaha/arpitkushwaha/master/assets/linkedin.svg"></a>
 </p>
 
-### ✨😎 About Me
+### ✨🔥 About Me
 
 <br/>
 🚀 4+ years of experience in transforming 'Legacy' into 'Legendary' | 🔥 Passionate about building intelligent apps (especially LLM-powered ones!) | 💡 Master of mobile and full-stack sorcery (Kotlin, .Net MAUI, C#, Flutter, Java, Android, and more!)
