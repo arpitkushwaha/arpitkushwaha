@@ -8,7 +8,9 @@
 ### ✨😎 About Me
 
 <br/>
-🚀 Transforming 'Legacy' into 'Legendary' | 🔥 Passionate about building intelligent apps (especially LLM-powered ones!) | 💡 Master of mobile and full-stack sorcery (Kotlin, .Net MAUI, C#, Flutter, Java, Android, and more!)
+🚀 **Transforming 'Legacy' into 'Legendary'** | 🔥 Passionate about building intelligent apps (especially LLM-powered ones!) | 💡 Master of mobile and full-stack sorcery (Kotlin, .Net MAUI, C#, Flutter, Java, Android, and more!)
+<br/>
+<br/>
 <br/>
 
 🏆 **My Superpowers Include:**
@@ -32,12 +34,6 @@
 🧠 **Always Learning, Always Building:**
 
 I'm a perpetual student in the school of hard knocks (and elegant code). If it involves system design, AI chatbots, or just making things work better, count me in!
-
-<br/>
-
-💼  **Let's Connect!**
-
-Got a cool project? Need a code wizard? Or just want to talk tech? Reach out – I don't bite (unless you're a bug).
 
 <br/>
 
@@ -67,7 +63,7 @@ Got a cool project? Need a code wizard? Or just want to talk tech? Reach out –
 
 <br/>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Got a cool project? Need a code wizard? Or just want to talk tech? Reach out – I don't bite (unless you're a bug)</b> ;)</em>
 
 ---
 
