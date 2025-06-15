@@ -5,39 +5,39 @@
   <a href="https://www.linkedin.com/in/arpit-kushwaha-930443172"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/arpitkushwaha/arpitkushwaha/master/assets/linkedin.svg"></a>
 </p>
 
-### 😎 About Me
+### ✨😎 About Me
+
+<br/>
+🚀 Transforming 'Legacy' into 'Legendary' | 🔥 Passionate about building intelligent apps (especially LLM-powered ones!) | 💡 Master of mobile and full-stack sorcery (Kotlin, .Net MAUI, C#, Flutter, Java, Android, and more!)
+<br/>
+
+🏆 **My Superpowers Include:**
+
+- Wielding the mighty Kotlin to slash code by 40-60% (less code, more glory!).
+
+- Conjuring LLM-powered AI assistants that actually help people (like fine-tuning hearing aids – magic!).
+
+- Architecting component-based systems to make monoliths poof into thin air.
+
+- Making apps crash-proof (99.9% crash-free, because who likes crashes?).
+
+- Solving payment glitches that even CEOs notice (AbhiBus knows the struggle!).
+
+- Turning hackathon prototypes into production features for 10M+ daily users.
+
+- Building multi-brand skinning engines, so everyone gets their favorite flavor of awesome.
 
 <br/>
 
-🚀 **Problem Solving through Tech** | 🔥 Passionate about transforming legacy code to modern architecture | 💡 Specializing in Java, Kotlin, Flutter etc.
+🧠 **Always Learning, Always Building:**
+
+I'm a perpetual student in the school of hard knocks (and elegant code). If it involves system design, AI chatbots, or just making things work better, count me in!
 
 <br/>
 
-🔧 **Key Achievements:**
+💼  **Let's Connect!**
 
-- 🎯 Successfully completed 5 diverse projects (AbhiBus, UTS App, RTC Passenger Apps - TSRTC and APSRTC, Edge Tracking App) utilizing JAVA, Kotlin, and Flutter.
-- 🔄 Refactored the legacy code of AbhiBus and migrated it to MVVM and clean architecture using JAVA & Kotlin.
-- 📈 Optimized AbhiBus's payment system, boosting conversion rates by rectifying key flaws.
-- 📍 Developed location-based alarm using a custom algorithm in Edge Tracking App.
-- 🤝 Collaborated with ixigo and confirmTkt teams to implement IxigoSDK in all 3 travel apps (India’s top travel apps).
-- 🏆 Integrated lots of key features in the AbhiBus app which helped the app become one of the highest-rated bus booking apps in India.
-- 🏗️ Engineered RTC Passenger App from scratch using Flutter. Employed cutting-edge technologies for rapid and robust delivery in record time.
-- 🏆 Received recognition for transforming legacy JAVA to modern Kotlin, embracing Clean Architecture and MVVM principles, and achieving an impressive 40-60% code reduction in specific files.
-- 🏆 Praised by leads for adeptly resolving payment system issues in the AbhiBus App.
-
-<br/>
-
-💡 **Learning and Improvement:**
-
-- 🔄 Rapidly learning new technologies through development.
-- 💪 Managing and delivering entire sprints, shouldering full responsibility and coordinating with product and testing teams to ensure project success.
-- 🛠️ Drove 99.9% crash-free user experience through promptly addressing critical issues, code optimization, and vigilant monitoring in Firebase Crashlytics.
-
-<br/>
-
-💼 **Contact Me:**
-
-Feel free to reach out for any opportunities or collaborations!
+Got a cool project? Need a code wizard? Or just want to talk tech? Reach out – I don't bite (unless you're a bug).
 
 <br/>
 
