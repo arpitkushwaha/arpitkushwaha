@@ -1,4 +1,4 @@
-<h1 align="center">💀 Hi, I'm <a href="http://arpitkushwaha.com/">Arpit</a> 💀</h1>
+<h1 align="center">😎 Hi, I'm <a href="http://arpitkushwaha.com/">Arpit</a> 💻</h1>
 
 <p align="center">
   <a href="https://github.com/arpitkushwaha"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/arpitkushwaha/arpitkushwaha/master/assets/github.svg"></a>
